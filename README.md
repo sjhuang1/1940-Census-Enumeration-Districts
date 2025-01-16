@@ -1,5 +1,6 @@
 Please cite this paper (stable DOI link) as attribution for use of the dataset: https://doi.org/10.1371/journal.pgph.0004067
-Example formatted citation (APA): Huang, S. J., Boudreaux, M., Whilby, K. W., McCoy, R. G., & Sehgal, N. J. (2025). Using internet-assisted geocoding of 1940 census addresses to reconstruct enumeration districts for use with redlining and longitudinal health datasets. PLOS Global Public Health, 5(1), e0004067. https://doi.org/10.1371/journal.pgph.0004067 
+Example formatted citation (APA): 
+Huang, S. J., Boudreaux, M., Whilby, K. W., McCoy, R. G., & Sehgal, N. J. (2025). Using internet-assisted geocoding of 1940 census addresses to reconstruct enumeration districts for use with redlining and longitudinal health datasets. PLOS Global Public Health, 5(1), e0004067. https://doi.org/10.1371/journal.pgph.0004067 
 
 Included here are the shapefiles for virtual 1940s enumeration contained within the paper. These shapefiles can be used with health and other datasets that include 1940s census enumeration districts as a linkage in order to merge in other, geographical, historical, and contextual data.
 The process is explained in the paper. Broadly, 1940s enumeration districts are not widely georeferenced. We geocoded 1940 addresses (each linked to the 1940 census enumeration district name) to their 2023 locations. We then used a cleaning algorithm and a convex hull algorithm to find the location and shape of 1940 enumeration districts. Our method now codes enumeration districts in cities representing 84% of the US urban population in 1940.
