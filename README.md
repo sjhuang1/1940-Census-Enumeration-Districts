@@ -7,6 +7,8 @@ Huang, S. J., Boudreaux, M., Whilby, K. W., McCoy, R. G., & Sehgal, N. J. (2025)
 Included here are the polygons (stored as a geopackage) for virtual 1940s enumeration contained within the paper. These shapefiles can be used with health and other datasets that include 1940s census enumeration districts as a linkage in order to merge in other, geographical, historical, and contextual data.
 The process is explained in the paper. Broadly, 1940s enumeration districts are not widely georeferenced. We geocoded 1940 addresses (each linked to the 1940 census enumeration district name) to their 2023 locations. We then used a cleaning algorithm and a convex hull algorithm to find the location and shape of 1940 enumeration districts. Our method now codes enumeration districts in cities representing 84% of the US urban population in 1940.
 
+Geocoding scripts are in "Geocoding codes.zip". Readme is included with those files.
+
 Underlying data
 
 Underlying data may be subject to license, terms, and conditions, including limitations to non-commercial use.
